@@ -1,0 +1,13 @@
+サンプルプログラム
+
+・GAME80ICテキストソース
+MZ-OTHELLO.TXT
+LifeGameMZ.txt
+
+・GAME80ICインタプリタ実行形式のCMTファイル
+MZ-OTHELLO.TXT.mzt
+LifeGameMZ.txt.mzt
+
+・GAME80ICバイナリ実行形式のCMTファイル
+LifeGameMZ.bin.mzt
+MZ-OTHELLO.bin.mzt
